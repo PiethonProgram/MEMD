@@ -1,6 +1,5 @@
 from calculations import *
 
-
 def validate_memd_input(signal, n_dir, stop_crit, stop_vec, n_iter, max_imf, e_thresh):
     """
         Validates and preprocesses inputs for the multi-dimensional EMD (MEMD) process.

@@ -22,7 +22,7 @@ pip install numpy scipy
 signal = np.random.randn(5, 1000)
 # Standard MEMD: Perform regular MEMD (returns matrix of (Channels, IMFs, Data Points))
 imfs_memd = memd(signal)
-    ```
+```
 
 ## Acknowledgements
 Several existing packages and repositories were referenced in the creation of this library. All credit goes to these authors for their contributions to the field.

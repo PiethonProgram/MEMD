@@ -5,6 +5,12 @@ Python implementation of Multivariate Empirical Mode Decomposition (MEMD).
 
 Multivariate Empirical Mode Decomposition (MEMD) is an extension of the traditional Empirical Mode Decomposition (EMD) method, which is used to decompose non-linear and non-stationary signals into simpler oscillatory components known as Intrinsic Mode Functions (IMFs). The key feature of MEMD is its ability to handle multivariate signals, meaning it can simultaneously decompose multiple related signals (or different dimensions of a signal) while ensuring that the decomposition is consistent across all channels.
 
+__Key Benefits of Repository__ :
+- Multivariate Decomposition :
+  - Decomposes n-dimensional signals, not limited to bivariate or quadrivariate, making it applicable to complex, high-dimensional data.
+- Performance Optimization :
+  - The implementation is significantly faster than existing models, making it practical for large-scale and real-time data applications.
+
 ## Dependencies 
 - NumPy
 - SciPy  

@@ -549,3 +549,5 @@ def stop_emd(r, seq, ndir, N_dim):
     stp = all(ner < 3)    # Stops if the all projected signals have less than 3 extrema
 
     return stp
+
+# FINAL CHANGES

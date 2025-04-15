@@ -30,4 +30,4 @@ Several existing packages and repositories were referenced in the creation of th
 * https://github.com/mariogrune/MEMD-Python-/tree/master [1]
 
 ## Citations
-[2] “Research | Empirical Mode Decomposition (EMD), Multivariate EMD, Matlab code and data sources ∴ Dr. Danilo P. Mandic,” www.commsp.ee.ic.ac.uk. https://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm (accessed Jul. 09, 2024)  [LINK](https://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm)
+[1] “Research | Empirical Mode Decomposition (EMD), Multivariate EMD, Matlab code and data sources ∴ Dr. Danilo P. Mandic,” www.commsp.ee.ic.ac.uk. https://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm (accessed Jul. 09, 2024)  [LINK](https://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm)
